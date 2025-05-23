@@ -1,0 +1,25 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Video estilo TikTok</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    video {
+      max-height: 100vh;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <video src="66e7cf31654d7befb350340c94cb4385.mp4" autoplay loop muted playsinline></video>
+</body>
+</html>
